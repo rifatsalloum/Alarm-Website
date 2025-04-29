@@ -1,0 +1,71 @@
+
+//********************  mobile menu  ****************************
+const mobileNav1 = document.querySelector('.mobileNav');
+
+const closeBtn = document.querySelector('.mnav__close-btn');
+
+
+
+closeBtn.addEventListener('click' , () => {
+
+
+ mobileNav1.classList.toggle("active");
+
+
+  });
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
